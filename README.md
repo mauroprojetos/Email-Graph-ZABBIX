@@ -22,6 +22,7 @@ Ex:<br>
 
 
 <blockquote> <p> Debian/Ubuntu / CentOS 6.x e 7</p> </blockquote>
+<b>2.0 </b><pre>apt-get install build-essential</pre>
 <b>2.1 </b><pre>$ sudo cpan</pre>
 <b>2.2 </b><pre> cpan[1]> install MIME::Lite WWW::Mechanize JSON::RPC::Client</pre>
 <b>2.3 </b><pre> Depois “exit” para sair. </pre>
